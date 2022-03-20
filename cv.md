@@ -32,3 +32,7 @@ while(gr.next()){
     gr.update();
 }
 ```
+# **Work Experience**
+EPAM Systems
+
+June 2016 - Current time
