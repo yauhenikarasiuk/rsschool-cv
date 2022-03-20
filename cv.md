@@ -6,6 +6,7 @@ Lead Software Engineer at EPAM
 * **Phone:** +375333798409
 * **Email:** yauheni.karasiuk@gmail.com
 * **Telegram:** t.me/yauheni_k49
+* **Discord Nickname:** Yauheni K (@yauhenikarasiuk)
 # **About Myself**
 I'm ServiceNow Developer with 6 years of experience implementing complex solutions for wide varyity of clients from USA, Europe and UAE.
 
