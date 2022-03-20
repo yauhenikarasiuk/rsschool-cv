@@ -12,7 +12,6 @@ Lead Software Engineer at EPAM
 * **Phone:** +375333798409
 * **Email:** yauheni.karasiuk@gmail.com
 * **Telegram:** t.me/yauheni_k49
-
 * **Discord Nickname:** Yauheni K (@yauhenikarasiuk)
 
 ## **About Myself**
