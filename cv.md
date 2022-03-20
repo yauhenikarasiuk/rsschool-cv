@@ -12,3 +12,10 @@ I'm ServiceNow Developer with 6 years of experience implementing complex solutio
 I can say that I'm passioned about learning, doing my best to be aware of cutting edge technologies related to my working field.
 
 Mostly main reason to attend rs.school is that React framework is now driving ServiceNow Front-End Development and rs.school classes, I think, is the best way to gain Front-End and especially React skills.
+# **Skills**
+* ServiceNow Development
+* ITIL
+* REST/SOAP Integrations
+* Agile/Scrum/Kanban Methodologies
+* Team Leading
+* Prototyping and estimations
