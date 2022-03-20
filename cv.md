@@ -1,10 +1,12 @@
-![Photo](images/photo.jpg)
+# CV
 
-# **Yauheni Karasiuk**
+## ![Photo](images/photo.jpg)
+
+## **Yauheni Karasiuk**
 
 Lead Software Engineer at EPAM
 
-# **Contact Information**
+## **Contact Information**
 
 * **Location:** Minsk, Belarus
 * **Phone:** +375333798409
@@ -13,7 +15,7 @@ Lead Software Engineer at EPAM
 
 * **Discord Nickname:** Yauheni K (@yauhenikarasiuk)
 
-# **About Myself**
+## **About Myself**
 
 I'm ServiceNow Developer with 6 years of experience implementing complex solutions for wide varyity of clients from USA, Europe and UAE.
 
@@ -21,7 +23,7 @@ I can say that I'm passioned about learning, doing my best to be aware of cuttin
 
 Mostly main reason to attend rs.school is that React framework is now driving ServiceNow Front-End Development and rs.school classes, I think, is the best way to gain Front-End and especially React skills.
 
-# **Skills**
+## **Skills**
 
 * ServiceNow Development
 * ITIL
@@ -30,7 +32,7 @@ Mostly main reason to attend rs.school is that React framework is now driving Se
 * Team Leading
 * Prototyping and estimations
 
-# **Code Examples**
+## **Code Examples**
 
 (In ServiceNow we use ES5, so please don't be mad about use of 'var' :rofl:)
 
@@ -48,13 +50,13 @@ while(gr.next()){
 
 ```
 
-# **Work Experience**
+## **Work Experience**
 
 EPAM Systems
 
 June 2016 - Current time
 
-# **Education**
+## **Education**
 
 * Bachelor in Computer Science, Academy of Public Administration
 * EPAM Java lab
@@ -63,7 +65,7 @@ June 2016 - Current time
 * Microsoft Azure Administrator course
 * Certified ServiceNow Administrator and Implementer
 
-# **Languages**
+## **Languages**
 
 ![English](images/English%20Level.png)
 
