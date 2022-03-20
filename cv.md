@@ -36,3 +36,14 @@ while(gr.next()){
 EPAM Systems
 
 June 2016 - Current time
+# **Education**
+* Bachelor in Computer Science, Academy of Public Administration
+* EPAM Java lab
+* EPAM ServiceNow training
+* EPAM ITIL v3 and v4 trainings
+* Microsoft Azure Administrator course
+* Certified ServiceNow Administrator and Implementer
+# **Languages**
+![English](images/English%20Level.png)
+
+Russian: Native
