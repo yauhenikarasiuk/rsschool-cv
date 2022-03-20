@@ -34,18 +34,21 @@ Mostly main reason to attend rs.school is that React framework is now driving Se
 
 ## **Code Examples**
 
-(In ServiceNow we use ES5, so please don't be mad about use of 'var' :rofl:)
+```javascript
 
-```
-
-var gr = new GlideRecord('incident');
-gr.addQuery('state', 1);
-gr.addQuery('assignment_group.active', false);
-gr.query();
-while(gr.next()){
-    gr.setValue('active', false);
-    gr.comments = 'Inactivating incident because it's assigned to inactive group';
-    gr.update();
+function high(x){
+  return x.split(' ').reduce((bestScore, word) => {
+    let score = word.split('').reduce((prevValue,b) =>{ 
+      return prevValue + (b.charCodeAt(0) - 96);
+    }, 0);
+    if(score > bestScore.value){
+        bestScore = {
+            value: score,
+            word: word
+        };
+    }
+    return bestScore;
+  }, {value: 0, word: ''}).word;
 }
 
 ```
