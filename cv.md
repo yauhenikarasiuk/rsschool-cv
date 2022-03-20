@@ -19,3 +19,16 @@ Mostly main reason to attend rs.school is that React framework is now driving Se
 * Agile/Scrum/Kanban Methodologies
 * Team Leading
 * Prototyping and estimations
+# **Code Examples**
+(In ServiceNow we use ES5, so please don't be mad about use of 'var' :rofl:)
+```
+var gr = new GlideRecord('incident');
+gr.addQuery('state', 1);
+gr.addQuery('assignment_group.active', false);
+gr.query();
+while(gr.next()){
+    gr.setValue('active', false);
+    gr.comments = 'Inactivating incident because it's assigned to inactive group';
+    gr.update();
+}
+```
